@@ -3,7 +3,7 @@
 title: Harsh Bhatia
 baseurl: /HarshBhatia.github.io # name of the repository
 
-highlighter: rouge
+# highlighter: rouge
 markdown: kramdown
 ### exclude the instructions / write-up in the README.md
 
